@@ -5,10 +5,10 @@ Store is web app based on Laravel framewort created for learning purpose.
 
 ## How to run
 
-> Set DB environment variable in .env 
-> Run migration ```php artisan migration```
-> Run application ```php artisan serve```
-> Hit enpoint /api/product
+* Set DB environment variable in .env 
+* Run migration ```php artisan migration```
+* Run application ```php artisan serve```
+* Hit enpoint /api/product
 
 ## License
 
